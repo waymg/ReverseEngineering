@@ -28,6 +28,7 @@ To begin using this app clone this repository into your local storage. Once this
 # Each File & What Each Job It Has
 
 Most Important Files From Beginning To End In File Order
+------------------------------------------------------------
 
 Authenticated.js - Stops any user from using it's platform unless it's logged in
 
@@ -46,4 +47,3 @@ html-routes.js - let's the server know if the user signed in or already has an a
 package.json - a file that usually contains all node modules
 
 server.js - sets up the PORT, Express, & allows synchronization with the database while confirming a successful connection
-------------------------------------------------------------
