@@ -1,4 +1,8 @@
-# reverse-engineering
+
+Some of the Node Module files are missing. To fix this problem please "npm i" the file "package.json"
+-----------------------------------------------------------------------------------------------------
+
+# REVERSE-ENGINEERING
 
 # DEBRIEFING
 A simplistic security measure done by all user maintaining platforms in which is being initated & let's the user login & out safely.
